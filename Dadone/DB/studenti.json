@@ -1,0 +1,8 @@
+[
+{"_id":1.0,"nome":"Aurora","eta":16,"residenza":"Saluzzo","sports":["basket", "volley"],"classe":"1A", "punteggio":125,"certificazioni":[{"nome":"Cisco","anno":"2016","sede":"Vallauri"},{"nome":"ECDL","anno":"2015","sede":"Tesauro"}]},
+{"_id":2.0,"nome":"Lorena","eta":40,"residenza":"Savigliano","sports":["bocce"],"classe":"2A", "punteggio":254},
+{"_id":3.0,"nome":"Mauro","eta":42,"residenza":"Savigliano","sports":["basket", "bike", "ping-pong"],"classe":"3A", "punteggio":12,"certificazioni":[{"nome":"ECDL","anno":"2016","sede":"Vallauri"},{"nome":"Atletica","anno":"2010","sede":"CNOS"},{"nome":"Scratch","anno":"2014","sede":"Ancina"}]},
+{"_id":4.0,"nome":"Pietro","eta":5,"residenza":"Savigliano","sports":["calcio"],"classe":"3A", "punteggio":25},
+{"_id":5.0,"nome":"Simone","eta":18,"residenza":"Fossano","sports":["bike","volley"],"classe":"3A", "punteggio":320,"certificazioni":[{"nome":"Cisco","anno":"2016","sede":"Vallauri"}]},
+{"_id":6.0,"nome":"Giovanna","eta":25,"residenza":"Saluzzo","sports":["basket"],"classe":"2A", "punteggio":189,"certificazioni":[{"nome":"Cisco","anno":"2015","sede":"Vallauri"},{"nome":"Atletica","anno":"2018","sede":"Ancina"}]}
+]
